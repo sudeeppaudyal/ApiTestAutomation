@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="testcases(failed)" parallel="methods">
+    <classes>
+      <class name="testcases.AS1_DannonShipping">
+        <methods>
+          <include name="AS1_DannonShippingSkimStagingAllAttributesPutRequest"/>
+          <include name="AS1DannonShippingAuthTokenPostRequest"/>
+        </methods>
+      </class> <!-- testcases.AS1_DannonShipping -->
+      <class name="testcases.AS1_DannonRCV">
+        <methods>
+          <include name="creamRCV_NoManifestRealCase"/>
+          <include name="skimRCV_NoMeasurements"/>
+          <include name="AS1DannonRCVAuthTokenPostRequest"/>
+        </methods>
+      </class> <!-- testcases.AS1_DannonRCV -->
+    </classes>
+  </test> <!-- testcases(failed) -->
+</suite> <!-- Failed suite [Suite] -->

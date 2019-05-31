@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="36" passed="36" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-30T23:39:21Z" name="Suite" finished-at="2019-05-30T23:40:17Z" duration-ms="56110">
+    <groups>
+    </groups>
+    <test started-at="2019-05-30T23:39:21Z" name="testcases" finished-at="2019-05-30T23:40:17Z" duration-ms="56110">
+      <class name="testcases.AS1_DannonRCV">
+        <test-method signature="AS1_MM2FieldsOnly()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:00Z" name="AS1_MM2FieldsOnly" finished-at="2019-05-30T23:40:00Z" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_MM2FieldsOnly -->
+        <test-method signature="AS1_MM_MinimalFields()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:00Z" name="AS1_MM_MinimalFields" finished-at="2019-05-30T23:40:01Z" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_MM_MinimalFields -->
+        <test-method signature="AS1_MM_MinimalFields2Manis()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:01Z" name="AS1_MM_MinimalFields2Manis" finished-at="2019-05-30T23:40:01Z" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_MM_MinimalFields2Manis -->
+        <test-method signature="RCV_GoodOne2ManisNoSupplier()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:01Z" name="RCV_GoodOne2ManisNoSupplier" finished-at="2019-05-30T23:40:01Z" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RCV_GoodOne2ManisNoSupplier -->
+        <test-method signature="RCV_GoodOneNoSupplier()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:01Z" name="RCV_GoodOneNoSupplier" finished-at="2019-05-30T23:40:01Z" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RCV_GoodOneNoSupplier -->
+        <test-method signature="RCV_MostMilkThisIsAGoodOne()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:01Z" name="RCV_MostMilkThisIsAGoodOne" finished-at="2019-05-30T23:40:02Z" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RCV_MostMilkThisIsAGoodOne -->
+        <test-method signature="RCV_MultiMilk()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:02Z" name="RCV_MultiMilk" finished-at="2019-05-30T23:40:02Z" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RCV_MultiMilk -->
+        <test-method signature="creamRCV_Export()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:02Z" name="creamRCV_Export" finished-at="2019-05-30T23:40:03Z" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creamRCV_Export -->
+        <test-method signature="creamRCV_MostFields()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:03Z" name="creamRCV_MostFields" finished-at="2019-05-30T23:40:03Z" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creamRCV_MostFields -->
+        <test-method signature="creamRCV_MostFieldsRealIsh()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:03Z" name="creamRCV_MostFieldsRealIsh" finished-at="2019-05-30T23:40:07Z" duration-ms="3558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creamRCV_MostFieldsRealIsh -->
+        <test-method signature="creamRCV_NoManifestRealCase()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:07Z" name="creamRCV_NoManifestRealCase" finished-at="2019-05-30T23:40:07Z" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creamRCV_NoManifestRealCase -->
+        <test-method signature="creamRCV_NoMeasurements()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:07Z" name="creamRCV_NoMeasurements" finished-at="2019-05-30T23:40:08Z" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creamRCV_NoMeasurements -->
+        <test-method signature="creamRCV_NoWeight()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:08Z" name="creamRCV_NoWeight" finished-at="2019-05-30T23:40:08Z" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creamRCV_NoWeight -->
+        <test-method signature="milkRCV_MinFields()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:08Z" name="milkRCV_MinFields" finished-at="2019-05-30T23:40:08Z" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- milkRCV_MinFields -->
+        <test-method signature="milkRCV_NoRejectNoManifests()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:08Z" name="milkRCV_NoRejectNoManifests" finished-at="2019-05-30T23:40:09Z" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- milkRCV_NoRejectNoManifests -->
+        <test-method signature="milkRCV_RejectMostMilk()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:09Z" name="milkRCV_RejectMostMilk" finished-at="2019-05-30T23:40:09Z" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- milkRCV_RejectMostMilk -->
+        <test-method signature="milkRCV_StandardFields()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:09Z" name="milkRCV_StandardFields" finished-at="2019-05-30T23:40:09Z" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- milkRCV_StandardFields -->
+        <test-method signature="patchRequestSkimRCV_MostFields()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:09Z" name="patchRequestSkimRCV_MostFields" finished-at="2019-05-30T23:40:10Z" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchRequestSkimRCV_MostFields -->
+        <test-method signature="putReceiptMinCream()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:10Z" name="putReceiptMinCream" finished-at="2019-05-30T23:40:10Z" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putReceiptMinCream -->
+        <test-method signature="putReceiptMinSkim()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:10Z" name="putReceiptMinSkim" finished-at="2019-05-30T23:40:11Z" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putReceiptMinSkim -->
+        <test-method signature="putReceiptMultiCream()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:11Z" name="putReceiptMultiCream" finished-at="2019-05-30T23:40:11Z" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putReceiptMultiCream -->
+        <test-method signature="putReceiptMultiSkim()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:11Z" name="putReceiptMultiSkim" finished-at="2019-05-30T23:40:12Z" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putReceiptMultiSkim -->
+        <test-method signature="putRejectMostOfCreamWorking()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:12Z" name="putRejectMostOfCreamWorking" finished-at="2019-05-30T23:40:12Z" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRejectMostOfCreamWorking -->
+        <test-method signature="skimRCV_Export()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:12Z" name="skimRCV_Export" finished-at="2019-05-30T23:40:13Z" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skimRCV_Export -->
+        <test-method signature="skimRCV_MostFields()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:13Z" name="skimRCV_MostFields" finished-at="2019-05-30T23:40:13Z" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skimRCV_MostFields -->
+        <test-method signature="skimRCV_NoMeasurements()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:40:13Z" name="skimRCV_NoMeasurements" finished-at="2019-05-30T23:40:14Z" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skimRCV_NoMeasurements -->
+      </class> <!-- testcases.AS1_DannonRCV -->
+      <class name="testcases.AS1_DannonASSN">
+        <test-method is-config="true" signature="getAuthToken()[pri:0, instance:testcases.AS1_DannonASSN@8b96fde]" started-at="2019-05-30T23:39:21Z" name="getAuthToken" finished-at="2019-05-30T23:39:23Z" duration-ms="1563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAuthToken -->
+        <test-method is-config="true" signature="AS1DannonRCVAuthTokenPostRequest()[pri:0, instance:testcases.AS1_DannonRCV@2d2e5f00]" started-at="2019-05-30T23:39:23Z" name="AS1DannonRCVAuthTokenPostRequest" finished-at="2019-05-30T23:39:23Z" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1DannonRCVAuthTokenPostRequest -->
+        <test-method is-config="true" signature="AS1DannonShippingAuthTokenPostRequest()[pri:0, instance:testcases.AS1_DannonShipping@4c40b76e]" started-at="2019-05-30T23:39:23Z" name="AS1DannonShippingAuthTokenPostRequest" finished-at="2019-05-30T23:39:24Z" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1DannonShippingAuthTokenPostRequest -->
+        <test-method signature="getCream()[pri:0, instance:testcases.AS1_DannonASSN@8b96fde]" started-at="2019-05-30T23:39:24Z" name="getCream" finished-at="2019-05-30T23:39:27Z" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCream -->
+        <test-method signature="getMilk()[pri:0, instance:testcases.AS1_DannonASSN@8b96fde]" started-at="2019-05-30T23:39:27Z" name="getMilk" finished-at="2019-05-30T23:39:38Z" duration-ms="11548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMilk -->
+        <test-method signature="getSkim()[pri:0, instance:testcases.AS1_DannonASSN@8b96fde]" started-at="2019-05-30T23:39:38Z" name="getSkim" finished-at="2019-05-30T23:40:00Z" duration-ms="21656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSkim -->
+      </class> <!-- testcases.AS1_DannonASSN -->
+      <class name="testcases.AS1_DannonShipping">
+        <test-method signature="AS1_DannonShippingCreamSHP_MostFieldsPutRequest()[pri:0, instance:testcases.AS1_DannonShipping@4c40b76e]" started-at="2019-05-30T23:40:14Z" name="AS1_DannonShippingCreamSHP_MostFieldsPutRequest" finished-at="2019-05-30T23:40:14Z" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_DannonShippingCreamSHP_MostFieldsPutRequest -->
+        <test-method signature="AS1_DannonShippingNewHyphenDestinationPlantPutRequest()[pri:0, instance:testcases.AS1_DannonShipping@4c40b76e]" started-at="2019-05-30T23:40:14Z" name="AS1_DannonShippingNewHyphenDestinationPlantPutRequest" finished-at="2019-05-30T23:40:15Z" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_DannonShippingNewHyphenDestinationPlantPutRequest -->
+        <test-method signature="AS1_DannonShippingNewHyphenPutRequest()[pri:0, instance:testcases.AS1_DannonShipping@4c40b76e]" started-at="2019-05-30T23:40:15Z" name="AS1_DannonShippingNewHyphenPutRequest" finished-at="2019-05-30T23:40:15Z" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_DannonShippingNewHyphenPutRequest -->
+        <test-method signature="AS1_DannonShippingSkimMostAttributesPutRequest()[pri:0, instance:testcases.AS1_DannonShipping@4c40b76e]" started-at="2019-05-30T23:40:15Z" name="AS1_DannonShippingSkimMostAttributesPutRequest" finished-at="2019-05-30T23:40:16Z" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_DannonShippingSkimMostAttributesPutRequest -->
+        <test-method signature="AS1_DannonShippingSkimStagingAllAttributesPutRequest()[pri:0, instance:testcases.AS1_DannonShipping@4c40b76e]" started-at="2019-05-30T23:40:16Z" name="AS1_DannonShippingSkimStagingAllAttributesPutRequest" finished-at="2019-05-30T23:40:16Z" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_DannonShippingSkimStagingAllAttributesPutRequest -->
+        <test-method signature="AS1_DannonShippingTinyCreamPutRequest()[pri:0, instance:testcases.AS1_DannonShipping@4c40b76e]" started-at="2019-05-30T23:40:16Z" name="AS1_DannonShippingTinyCreamPutRequest" finished-at="2019-05-30T23:40:17Z" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_DannonShippingTinyCreamPutRequest -->
+        <test-method signature="AS1_DannonShippingTinySkimRequiredOnly()[pri:0, instance:testcases.AS1_DannonShipping@4c40b76e]" started-at="2019-05-30T23:40:17Z" name="AS1_DannonShippingTinySkimRequiredOnly" finished-at="2019-05-30T23:40:17Z" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS1_DannonShippingTinySkimRequiredOnly -->
+      </class> <!-- testcases.AS1_DannonShipping -->
+    </test> <!-- testcases -->
+  </suite> <!-- Suite -->
+</testng-results>
